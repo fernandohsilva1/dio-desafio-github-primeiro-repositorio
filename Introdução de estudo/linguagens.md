@@ -6,7 +6,14 @@
 - JavaScript
 - Python
 
-### Linguagens que quero estudar depois das atuais:
+### Linguagens que quero estudar:
+
+- Java
+- C/C++
+- TypeScript
+
+#### Linguagens que podem me interessar:
 
 - PHP
-- Java
+- Ruby
+
